@@ -27,7 +27,7 @@ I enjoy building software, exploring how systems interact with each other, and e
 
 Feel free to get in touch through:
 
-📧 Email: alejandroperezsvet@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/alejandro-perez-svetlitsky/
+- 📧 Email: alejandroperezsvet@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-perez-svetlitsky/
 
 Always open to connecting with developers, other students, and technology enthusiasts!
