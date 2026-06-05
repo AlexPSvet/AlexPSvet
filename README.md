@@ -15,7 +15,7 @@ I enjoy building software, exploring how systems interact with each other, and e
 
 ### Web Development
 - MERN Stack (MongoDB, Express.js, React, Node.js)
-- .NET Development (Blazor WebAssembly)
+- .NET Development (Currently learning Blazor WebAssembly)
 
 ### Interests
 - Software Engineering
