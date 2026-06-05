@@ -9,7 +9,6 @@ I enjoy building software, exploring how systems interact with each other, and e
 ### What I'm Currently Working On
 
 - Deepening my understanding of Web Development
-- Learning more about system architecture and communication between systems
 - Exploring modern frameworks and development practices
 - Building projects that help me grow as a software developer
 
@@ -23,11 +22,11 @@ I enjoy building software, exploring how systems interact with each other, and e
 - Mathematics
 - Artificial Intelligence (currently exploring and interested in learning more)
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 Feel free to get in touch through:
 
 - 📧 Email: alejandroperezsvet@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/alejandro-perez-svetlitsky/
 
-Always open to connecting with developers, other students, and technology enthusiasts!
+Always open to connecting with developers and technology enthusiasts!
