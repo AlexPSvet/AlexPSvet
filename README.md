@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**AlexPSvet/AlexPSvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science and Mathematics student currently starting my third year of studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building software, exploring how systems interact with each other, and expanding my knowledge across different areas of computer science.
+
+### What I'm Currently Working On
+
+- Deepening my understanding of Web Development
+- Learning more about system architecture and communication between systems
+- Exploring modern frameworks and development practices
+- Building projects that help me grow as a software developer
+
+### Web Development
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- .NET Development (Blazor WebAssembly)
+
+### Interests
+- Software Engineering
+- Full-Stack Development
+- Mathematics
+- Artificial Intelligence (currently exploring and interested in learning more)
+
+## 📫 How to Reach Me
+
+Feel free to get in touch through:
+
+📧 Email: alejandroperezsvet@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/alejandro-perez-svetlitsky/
+
+Always open to connecting with developers, other students, and technology enthusiasts!
