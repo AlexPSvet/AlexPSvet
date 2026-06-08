@@ -6,12 +6,6 @@ I'm a Computer Science and Mathematics student currently starting my third year 
 
 I enjoy building software, exploring how systems interact with each other, and expanding my knowledge across different areas of computer science.
 
-### What I'm Currently Working On
-
-- Deepening my understanding of Web Development
-- Exploring modern frameworks and development practices
-- Building projects that help me grow as a software developer
-
 ### Web Development
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - .NET Development (Currently learning Blazor WebAssembly)
